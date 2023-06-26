@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#React Next 2023 - Server Components
+
+> This is the code for my talk at "React Next 2023" about Server Components
 
 ## Getting Started
 
